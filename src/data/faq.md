@@ -3,7 +3,7 @@ tags: Getting Started
 
 **1. Install and back up seed phrase**
 
-Download and install HavenoFlow. On first launch, a Monero wallet is automatically created and embedded in the app. Open 'Settings → Wallet' and back up your seed phrase before doing anything else. This seed phrase can be used to access your XMR in any Monero-compatible wallet.
+Download and install HavenoFlow. On first launch, a Monero wallet is automatically created and embedded in the app. Open 'Account → Wallet seed' and back up your seed phrase before doing anything else. This seed phrase can be used to access your XMR in any Monero-compatible wallet.
 
 **2. Fund your wallet**
 
@@ -11,7 +11,7 @@ XMR is the base currency of HavenoFlow, you will need some before you can trade.
 
 **3. Add payment accounts**
 
-Go to 'Settings → Payment Accounts' and add an account for each cryptocurrency you want to trade. This registers the addresses where you will receive funds when a trade completes.
+Go to 'Account → Cryptocurrency Accounts' and add an account for each cryptocurrency you want to trade. This registers the addresses where you will receive funds when a trade completes.
 
 **4. Place or take an offer**
 
